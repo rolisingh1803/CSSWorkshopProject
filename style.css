@@ -127,8 +127,8 @@ button{
 }
 
 .images{
-  width:300px;
-  height: 100px;
+  width:700px;
+  height: 200px;
   display: flex;
   object-fit: cover;
 }
@@ -137,7 +137,7 @@ button{
   margin-top: 20px;
   padding: 10px;
   text-align: center;
-  background: black;
+  background: rgb(110, 102, 102);
   color: white;
   font-family:'Roboto','sans-sarif';
   text-transform: uppercase;
